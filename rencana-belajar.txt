@@ -7,3 +7,4 @@ Belajar Javascript
     * Angular
     * Vue
  Belajar Python
+ Belajar Networking
