@@ -5,4 +5,5 @@ Belajar Javascript
   ^ Framework
     * React
     * Angular
+    * Vue
  Belajar Python
