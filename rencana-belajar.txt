@@ -1,5 +1,6 @@
 Belajar HTML
 Belajar CSS
+  ^ SCSS
 Belajar Javascript
   ^ ES6
   ^ Framework
