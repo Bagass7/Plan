@@ -4,3 +4,6 @@ Belajar CSS
 Belajar Javascript
   ^ ES6
   ^ Framework
+    * React
+    * Angular
+ Belajar Python
